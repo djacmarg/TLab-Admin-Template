@@ -1,4 +1,5 @@
 export const geoFeatures = {
+  //GEO Feature Collection for accessing GEO Location Coordinates
   type: "FeatureCollection",
   features: [
     {
