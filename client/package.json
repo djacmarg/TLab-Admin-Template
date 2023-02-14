@@ -1,5 +1,6 @@
 {
-  "name": "eazitap_full_app",
+  "homepage": "http://djacmarg.github.io/TLab-Admin-Template",
+  "name": "TLab-Admin-Template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,6 +34,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -54,5 +57,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
