@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TLab-Admin-Template/static/css/main.9e4eb007.css",
+    "main.js": "/TLab-Admin-Template/static/js/main.2e186565.js",
+    "index.html": "/TLab-Admin-Template/index.html",
+    "main.9e4eb007.css.map": "/TLab-Admin-Template/static/css/main.9e4eb007.css.map",
+    "main.2e186565.js.map": "/TLab-Admin-Template/static/js/main.2e186565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4eb007.css",
+    "static/js/main.2e186565.js"
+  ]
+}
